@@ -39,7 +39,14 @@ I'm a passionate DevOps Engineer, helping bridge the gap between development and
 - 💬 Ask me about DevOps best practices, Docker, Kubernetes, and GitHub Actions!
 - 📫 How to reach me: nivedita.pa21@gmail.com
 - ⚡ Fun fact: I love scripting automation while sipping coffee ☕✨
+- 
+## 🎯 Goals 
 
+- 📈 Master advanced Kubernetes and Cloud Native tools (ArgoCD, Helm, Prometheus)
+- ☁️ Deepen expertise in AWS and multi-cloud deployments
+- 🤖 Automate everything: infra, monitoring, CI/CD pipelines
+- 📚 Achieve certifications (CKA, AWS Certified DevOps Engineer)
+- 👩‍💻 Share technical blogs and tutorials around DevOps topics
 
 
 ### 🛠️ Languages and Tools:
