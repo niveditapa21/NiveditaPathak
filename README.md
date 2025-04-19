@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
-## Let's Connect and have a Chat! 💬
+## Connect with Me! 🌐
+
+<p align="center">
+  <!-- your icons here -->
+</p>
 
 <p align="center">
   
