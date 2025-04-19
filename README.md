@@ -65,3 +65,6 @@ I'm a passionate DevOps Engineer, helping bridge the gap between development and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100" />
+</p>
