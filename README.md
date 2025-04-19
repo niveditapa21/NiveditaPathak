@@ -28,3 +28,18 @@ Connect with Me! 🌐
 
 
 ## 👩🏻‍💻✨ A Glimpse Into My World
+
+# 👩‍💻 Hello World! I'm [Your Name] 🚀
+
+I'm a passionate DevOps Engineer, helping bridge the gap between development and operations by automating, optimizing, and scaling applications. 🔧🌐
+
+- 🔭 I’m currently working on automating deployments, CI/CD pipelines, and infrastructure management
+- 🌱 I’m learning deeper into Kubernetes, Cloud Services, and Monitoring tools
+- 👯 I’m looking to collaborate on DevOps, Cloud, and Open Source projects
+- 💬 Ask me about DevOps best practices, Docker, Kubernetes, and GitHub Actions!
+- 📫 How to reach me: [nivedita.pa21@gmail.com]
+- ⚡ Fun fact: I love scripting automation while sipping coffee ☕✨
+
+
+### 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
