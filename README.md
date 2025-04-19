@@ -29,7 +29,7 @@ Connect with Me! 🌐
 
 ## 👩🏻‍💻✨ A Glimpse Into My World
 
-# 👩‍💻 Hello World! I'm Nivedita Pathak 🚀
+
 
 I'm a passionate DevOps Engineer, helping bridge the gap between development and operations by automating, optimizing, and scaling applications. 🔧🌐
 
